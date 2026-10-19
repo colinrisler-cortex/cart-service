@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "cart-service"
+  x-cortex-tag: "cart-service"
+  x-cortex-description: "Shopping cart CRUD and session management"
+  x-cortex-owners:
+    - type: group
+      name: "Cart & Checkout Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001203"
+    apm_name: "Cart Management System"
+    cost_center: "CC-4211"
